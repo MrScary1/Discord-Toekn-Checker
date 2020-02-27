@@ -1,0 +1,10 @@
+{
+  "proxy_type": "HTTP",
+  "use_proxy": false,
+  "use_multi_threaded": true,
+  "threads": 3,
+  "duplicate_tokens": true,
+  "location": true,
+  "avatar": true,
+  "debug": true
+}
